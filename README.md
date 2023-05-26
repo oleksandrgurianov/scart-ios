@@ -1,3 +1,5 @@
+### [High Fidelity Prototype](https://www.figma.com/file/CF7hGdtcXMTenxJPcFFBlz/SCART?type=design&t=D00ky1FgVGo0NLZg-1)
+
 # SCART – iOS App
 
 ### Primary front-end features:
